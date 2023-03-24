@@ -1,5 +1,4 @@
-# Bendi
+# Our mission
 
-## Our mission
-
-Bendi is a collection of tools to help companies and brands have a complete view of their supply chains to make distribution and production better at every link of the chain.
+Bendi offers 24/7 ESG Intelligence for global supply chains.
+Meet the data intelligence tools that uncover issues your business can not afford to ignore.
