@@ -1,4 +1,1 @@
-# Our mission
-
-Bendi offers 24/7 ESG Intelligence for global supply chains.
-Meet the data intelligence tools that uncover issues your business can not afford to ignore.
+Bendi maps connections in supply chains to radically reduce the risk of human rights, environmental, and governance risks. Through 24/7 risk supplier monitoring, our software maps millions of data points—from news and legal cases to social media—in multiple languages, globally and across various sectors, including fashion and textiles, food, retail, and advanced manufacturing.
